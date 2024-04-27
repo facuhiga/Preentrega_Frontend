@@ -1,0 +1,5 @@
+body{
+    /*Agregar fondo. Hacer lo mismo para registro*/
+    background-image: url(../Assets/img/);
+    background-size: cover;
+}
